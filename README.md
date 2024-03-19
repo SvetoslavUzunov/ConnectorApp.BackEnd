@@ -10,4 +10,4 @@ BackEnd: </br>
 - Authentication(Register, Login, Logout)
 - Handle errors middle-layer
 - JWT Token
-- GraphQL </br>
+- GraphQL HotChocolate </br>
