@@ -11,4 +11,5 @@ BackEnd: </br>
 - Handle errors middle-layer
 - JWT Token
 - GraphQL HotChocolate
-- MongoDB </br>
+- MongoDB
+- Domain Driven Design (DDD) architecture </br>
